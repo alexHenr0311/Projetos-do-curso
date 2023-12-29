@@ -1,0 +1,15 @@
+.BackImageCustom {
+    background-image: url('../img/pexels-truth-enock-3209258.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    height: 100vh;
+}
+
+.customForm {
+    margin-bottom: 0vh;
+    margin-top: 10vh;
+}
+
+
+

@@ -1,0 +1,56 @@
+.navbar {
+    background-color: #ffcece;
+}
+
+.bg1 {
+    margin-top: 10%;
+    background-color: #ff5757;
+}
+
+.btn {
+    margin-top: 50%;
+}
+
+.btn2 {
+width: 80%;
+}
+
+.bg2 {
+    background-color: #ffcece;
+    margin-top: 10%;
+}
+
+.img1{
+    width: 350%;
+}
+
+.arrumar{
+    font-weight: 700;
+    font-size: 230%;
+}
+
+.txt{
+  text-align: center;
+  display: flex;
+}
+
+.customtxt {
+    margin-top: 10%;
+}
+
+.b{
+  margin-left: 30%;
+  margin-top: 40%;
+}
+
+.sla{
+    margin-left: 30%;
+}
+
+.top{
+    margin-top: 30%;
+}
+
+.opcoes{
+    background-color: #ff5757;
+}

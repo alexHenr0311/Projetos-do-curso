@@ -1,0 +1,49 @@
+.navbar-text1 {
+    margin-left: 4px;
+}
+
+.img1 {
+    margin-top: 30px;
+}
+
+.display-5 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+button {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.display-6 {
+    margin-top: 10px;
+}
+
+.btn1 {
+    width: 180px;
+    height: 40px;
+    transition: 0.3s;
+}
+
+.btn1:hover {
+    width: 180px;
+    height: 40px;
+    background-color: rgb(0, 153, 255);
+}
+
+.btn2 {
+    width: 300px;
+    height: 60px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    transition: 0.3s;
+}
+
+.btn2:hover{
+    width: 300px;
+    height: 60px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    background-color: rgb(0, 153, 255);
+}

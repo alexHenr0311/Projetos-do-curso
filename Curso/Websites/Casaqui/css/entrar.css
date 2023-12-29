@@ -1,0 +1,13 @@
+.BackImageCustom {
+    background-image: url('../img/pexels-gift-habeshaw-3339117.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    height: 100vh;
+}
+
+.customForm {
+    margin-top: 30vh;
+    margin-bottom: 15vh;
+}
+
